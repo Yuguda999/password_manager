@@ -1,0 +1,37 @@
+{
+    "muhammed": {
+        "id": "1234",
+        "quiz_scores": {
+            "chemistry": 3,
+            "biology": 4,
+            "physics": 5,
+            "math": 4
+        },
+        "homework": {
+            "chemistry": 3,
+            "biology": 3,
+            "physics": 4,
+            "math": 5
+        },
+        "class_attendance": {
+            "chemistry": 3,
+            "biology": 5,
+            "physics": 6,
+            "math": 7
+        },
+        "exam": {
+            "chemistry": 3,
+            "biology": 4,
+            "physics": 5,
+            "math": 6
+        },
+        "chem_avg": 2.08,
+        "bio_avg": 2.78,
+        "phy_avg": 3.47,
+        "math_avg": 3.82,
+        "Average Score": 3.52,
+        "GPA": 0.2,
+        "Grade": "F",
+        "Status": "Fail"
+    }
+}
